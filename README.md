@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **augustobor/augustobor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+
+I'm Augusto Borromeo. I'm on the 3rd year of Engineery of Software.
+
+Actually I'm learning more about Data Science and frontend dev. I'm going to make more proyects related to theese concepts. My final goal is always grow as a professional and be able to colaborate with awesome proyects. The world of programation's still offer new things and we should work on to improve the world that we live with new technologies.
+
+Most of my skills was learned in internet. That's why I think that education is important to share with everyone. Education can change your life and gives you oportunities.
+
+
+## Skills
+
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Excel](https://img.shields.io/badge/excel-008F39?style=for-the-badge&logo=excel&logoColor=white&labelColor=101010)]()
+</br>
+[![HTML](https://img.shields.io/badge/html-FF8000?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/css-00AAE4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![PYTHON](https://img.shields.io/badge/python-0A497B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+<br/>
+
+## Find me at
+
+[![TWITTER](https://img.shields.io/badge/@Augus_dev-00ACEE?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)]()
+[![LINKEDIN](https://img.shields.io/badge/Augusto%20Borromeo-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
+
+
+## Proyects
+
+Comming soon..
