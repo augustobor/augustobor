@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 ## About me
 
-I'm Augusto Borromeo. I'm on the 3rd year of Software Engineery.
+😃 I'm Augusto Borromeo. I'm on the 3rd year of Software Engineery.
 
-Actually I'm learning more about Data Science and frontend dev. I'm going to make more proyects related to theese concepts. My final goal is always grow as a professional and be able to colaborate with awesome proyects. The world of programation's still offer new things and we should work on to improve the world that we live with new technologies.
+🖥️ Actually I'm learning more about Data Science and frontend dev. I'm going to make more proyects related to theese concepts. My final goal is always grow as a professional and be able to colaborate with awesome proyects. The world of programation's still offer new things and we should work on to improve the world that we live with new technologies.
 
-Most of my skills was learned on internet. That's why I think that education is important to share with everyone. Education can change your life and gives you oportunities.
+📚 Most of my skills was learned on internet. That's why I think that education is important to share with everyone. Education can change your life and gives you oportunities.
 
 
 ## Skills
@@ -42,4 +42,4 @@ Most of my skills was learned on internet. That's why I think that education is 
 
 ## Proyects
 
-Comming soon..
+🛠️ Comming soon..
