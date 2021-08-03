@@ -27,7 +27,7 @@ Most of my skills was learned in internet. That's why I think that education is 
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Excel](https://img.shields.io/badge/excel-008F39?style=for-the-badge&logo=excel&logoColor=white&labelColor=101010)]()
+[![Excel](https://img.shields.io/badge/excel-008F39?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)]()
 </br>
 [![HTML](https://img.shields.io/badge/html-FF8000?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/css-00AAE4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
