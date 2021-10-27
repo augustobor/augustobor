@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 ## Proyects
 
-🛠️ Comming soon..
+- <a href="https://github.com/augustobor/Foxy-Exchange">🦊 Foxy Exchange</a>
