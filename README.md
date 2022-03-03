@@ -43,5 +43,10 @@ Here are some ideas to get you started:
 
 ## Proyects
 
+### Frontend
 - <a href="https://github.com/augustobor/Foxy-Exchange">🦊 Foxy Exchange</a>
 - <a href="https://github.com/augustobor/RockBeer">🍺 Rock Beer</a>
+
+### Data Analysis
+- <a href="https://github.com/augustobor/datanalysis-retail">📊 Data Analysis Retail</a>
+
