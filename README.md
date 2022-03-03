@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 [![HTML](https://img.shields.io/badge/html-FF8000?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/css-00AAE4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![PYTHON](https://img.shields.io/badge/python-0A497B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Figma](https://img.shields.io/badge/figma-AB49CC?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]() 
 <br/>
 
 ## Find me at
