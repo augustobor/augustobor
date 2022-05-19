@@ -25,21 +25,25 @@ Here are some ideas to get you started:
 
 ## Skills
 
-[![Java](https://img.shields.io/badge/Java-CF010B?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Excel](https://img.shields.io/badge/excel-008F39?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)]()
-[![AdobeXD](https://img.shields.io/badge/adobeXD-8A2BE2?style=for-the-badge&logo=adobeXD&logoColor=white&labelColor=101010)]() 
+[![HTML](https://img.shields.io/badge/html-FF8000?style=for-the-badge&logo=html5&logoColor=FF8000&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/css-00AAE4?style=for-the-badge&logo=css3&logoColor=00AAE4&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=101010)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-0A497B?style=for-the-badge&logo=typescript&logoColor=00AAE4&labelColor=101010)]()
+[![Figma](https://img.shields.io/badge/figma-CB3234?style=for-the-badge&logo=figma&logoColor=CB3234&labelColor=101010)]() 
+[![AdobeXD](https://img.shields.io/badge/adobeXD-8A2BE2?style=for-the-badge&logo=adobeXD&logoColor=8A2BE2&labelColor=101010)]() 
 </br>
-[![HTML](https://img.shields.io/badge/html-FF8000?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/css-00AAE4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![PYTHON](https://img.shields.io/badge/python-0A497B?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Figma](https://img.shields.io/badge/figma-AB49CC?style=for-the-badge&logo=figma&logoColor=white&labelColor=101010)]() 
+[![Python](https://img.shields.io/badge/python-0A497B?style=for-the-badge&logo=python&logoColor=F7DF1E&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=F89820&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/php-3B83BD?style=for-the-badge&logo=php&logoColor=3B83BD&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00AAE4?style=for-the-badge&logo=mysql&logoColor=00AAE4&labelColor=101010)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-924E7D?style=for-the-badge&logo=postgresql&logoColor=924E7D&labelColor=101010)]()
+[![Excel](https://img.shields.io/badge/excel-008F39?style=for-the-badge&logo=microsoftexcel&logoColor=008F39&labelColor=101010)]()
 <br/>
 
 ## Find me at
 
-[![TWITTER](https://img.shields.io/badge/@Augus_dev-00ACEE?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)]()
-[![LINKEDIN](https://img.shields.io/badge/Augusto%20Borromeo-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
+[![TWITTER](https://img.shields.io/badge/@Augus_dev-00ACEE?style=for-the-badge&logo=twitter&logoColor=00ACEE&labelColor=101010)]()
+[![LINKEDIN](https://img.shields.io/badge/Augusto%20Borromeo-0E76A8?style=for-the-badge&logo=linkedin&logoColor=0E76A8&labelColor=101010)]()
 
 
 ## Proyects
