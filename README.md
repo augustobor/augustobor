@@ -32,11 +32,10 @@ Here are some ideas to get you started:
 [![Figma](https://img.shields.io/badge/figma-CB3234?style=for-the-badge&logo=figma&logoColor=CB3234&labelColor=101010)]() 
 [![AdobeXD](https://img.shields.io/badge/adobeXD-2E001F?style=for-the-badge&logo=adobeXD&logoColor=2E001F&labelColor=FF26BE)]() 
 </br>
-[![Python](https://img.shields.io/badge/python-0A497B?style=for-the-badge&logo=python&logoColor=FFD43A&labelColor=326897)]()
 [![PHP](https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=787CB5&labelColor=000000)]()
+[![Python](https://img.shields.io/badge/python-0A497B?style=for-the-badge&logo=python&logoColor=FFD43A&labelColor=326897)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=F29111&labelColor=323330)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=FAFAFA&labelColor=2F6190)]()
-[![Excel](https://img.shields.io/badge/excel-21A365?style=for-the-badge&logo=microsoftexcel&logoColor=FAFAFA&labelColor=107D43)]()
 [![Vue.js](https://img.shields.io/badge/vue.js-101010?style=for-the-badge&logo=vue.js&logoColor=35495E&labelColor=42B883)]()
 <br/>
 
