@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🖥️ I learning and making frontend dev web apps. My final goal is always grow as a professional and be able to colaborate with awesome proyects. The world of programation's still offer new things and we should work on to improve the world that we live with new technologies.
 
-📚 Most of my skills was learned on internet. That's why I think that education is important to share with everyone. Education can change your life and gives you oportunities.
+📚 Most of my skills was learn on internet. That's why I think that education is important to share with everyone. Education can change your life and gives you oportunities.
 
 
 ## Skills
