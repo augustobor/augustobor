@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - <a href="https://github.com/augustobor/Foxy-Exchange">🦊 Foxy Exchange</a>
 - <a href="https://github.com/augustobor/RockBeer">🍺 Rock Beer</a>
 - <a href="https://github.com/augustobor/ZCoin">💰 ZCoin</a>
-- <a href="https://github.com/augustobor/menteslibres-repo">🕊 Mentes Libres</a>
+- <a href="https://github.com/augustobor/menteslibres">🕊 Mentes Libres</a>
 - <a href="https://github.com/augustobor/homeBanking.php">🏦 Home Banking</a>
 
 ### 📊 Data Analysis
