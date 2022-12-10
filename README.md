@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-😃 I'm Augusto Borromeo. I'm on the 3rd year of Software Engineery.
+😃 I'm Augusto Borromeo. I'm on the 4th year of Software Engineery.
 
 🖥️ I learning and making frontend dev web apps. My final goal is always grow as a professional and be able to colaborate with awesome proyects. The world of programation's still offer new things and we should work on to improve the world that we live with new technologies.
 
