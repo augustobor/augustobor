@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 [![Figma](https://img.shields.io/badge/figma-CB3234?style=for-the-badge&logo=figma&logoColor=CB3234&labelColor=101010)]() 
 [![AdobeXD](https://img.shields.io/badge/adobeXD-2E001F?style=for-the-badge&logo=adobeXD&logoColor=2E001F&labelColor=FF26BE)]() 
 </br>
+[![REACT](https://img.shields.io/badge/react.js-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=1c1c1c)]()
 [![PHP](https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=787CB5&labelColor=000000)]()
 [![Python](https://img.shields.io/badge/python-0A497B?style=for-the-badge&logo=python&logoColor=FFD43A&labelColor=326897)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=F29111&labelColor=323330)]()
