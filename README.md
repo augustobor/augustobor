@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 - <a href="https://github.com/augustobor/ZCoin">💰 ZCoin</a>
 - <a href="https://github.com/augustobor/menteslibres">🕊 Mentes Libres</a>
 - <a href="https://github.com/augustobor/homeBanking.php">🏦 Home Banking</a>
+- <a href="https://github.com/augustobor/todo-app">📝 Todo App</a>
 
 ### 📊 Data Analysis
 - <a href="https://github.com/augustobor/datanalysis-retail">🛒 Data Analysis Retail</a>
