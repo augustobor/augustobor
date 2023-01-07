@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 [![TWITTER](https://img.shields.io/badge/@augusdeveloper-00ACEE?style=for-the-badge&logo=twitter&logoColor=00ACEE&labelColor=101010)]()
 [![LINKEDIN](https://img.shields.io/badge/Augusto%20Borromeo-0E76A8?style=for-the-badge&logo=linkedin&logoColor=0E76A8&labelColor=101010)]()
 
-### <a href="https://augusdev.vercel.app/" target="blank">Check out my website! 🔥</a>
+### <a href="https://www.augusdev.com/" target="blank">Check out my website! 🔥</a>
 
 ## Proyects
 
