@@ -72,3 +72,6 @@
 
 ### 📊 Data Analysis
 - <a href="https://github.com/augustobor/datanalysis-retail">🛒 Data Analysis Retail</a>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustobor&show_icons=true&locale=en" alt="augustobor" /></p>
