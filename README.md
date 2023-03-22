@@ -15,7 +15,7 @@
 
 📚 Most of my skills was learn on internet. That's why I think that education is important to share with everyone. Education can change your life and gives you oportunities.
 
-✋ I always try to help other people with their problems as much as I can, strengthening relations. I also have experiencie to work and coordinate software teamates in for example study-app
+✋ I always try to help other software teamates with their problems as much as I can, strengthening relations. I also have experiencie to work and coordinate software teams in for example study-app
 
 ## 👨‍💻 Skills
 
