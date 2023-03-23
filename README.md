@@ -69,6 +69,10 @@
 - <a href="https://github.com/augustobor/todo-app">📝 Todo App</a>
 - <a href="https://github.com/augustobor/study-web-app">📖 Study web App</a>
 
+### 🧑‍💻 Backend 
+- <a href="https://github.com/augustobor/chat-telegram-api">📱 Chat Message API</a>
+
+
 ### 📊 Data Analysis
 - <a href="https://github.com/augustobor/datanalysis-retail">🛒 Data Analysis Retail</a>
 
