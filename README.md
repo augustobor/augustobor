@@ -1,6 +1,6 @@
 ## 👋 Hi Let's meet us!
 
-- 🌱 I’m currently learning **AWS & Typescript**
+- 🌱 I’m currently learning **AWS & Kubernetes**
 - 👯 I’m looking to collaborate on **Web development projects with React**
 - 💬 Ask me about **Frontend issues**
 - 📫 How to reach me: **augusborromeo@gmail.com**
