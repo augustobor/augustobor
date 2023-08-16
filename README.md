@@ -68,6 +68,7 @@
 - <a href="https://github.com/augustobor/homeBanking.php">🏦 Home Banking</a>
 - <a href="https://github.com/augustobor/todo-app">📝 Todo App</a>
 - <a href="https://github.com/augustobor/study-web-app">📖 Study web App</a>
+- <a href="https://github.com/augustobor/Patitas-a-casa-frontend">🐶 pets website</a>
 - <a href="https://github.com/augustobor/chat-app">📲 Chat app</a>
 
 
