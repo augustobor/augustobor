@@ -9,13 +9,13 @@
 
 ## 👦 About me
 
-😃 I'm Augusto Borromeo. I'm on the 4th year of Software Engineery (70% completed).
+😃 I'm Augusto Borromeo. I'm on the 4th year of Software Engineery (80% completed).
 
-🖥️ I learning and making frontend dev web apps. My final goal is always grow as a professional and be able to colaborate with awesome proyects. The world of programation's still offer new things and we should work on to improve the world that we live with new technologies.
+🖥️ I learning and making web apps. My final goal is always grow as a professional and be able to colaborate with awesome proyects. The world of programation's still offer new things and we should work on to improve the world that we live with new technologies.
 
 📚 Most of my skills was learn on internet. That's why I think that education is important to share with everyone. Education can change your life and gives you oportunities.
 
-✋ I always try to help other software teamates with their problems as much as I can, strengthening relations. I also have experiencie to work and coordinate software teams in for example study-app
+✋ I always try to help other software teamates with their problems as much as I can, strengthening relations. I also have experiencie to work and coordinate software teams in for example study-app.
 
 ## 👨‍💻 Skills
 
