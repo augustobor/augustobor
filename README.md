@@ -1,6 +1,6 @@
 ## 👋 Hi Let's meet us!
 
-- 🌱 I’m currently learning **AWS & Kubernetes**
+- 🌱 I’m currently learning **Gen AI + AWS Services like AWS BedRock**
 - 👯 I’m looking to collaborate on **Web development projects with React**
 - 💬 Ask me about **Frontend issues**
 - 📫 How to reach me: **augusborromeo@gmail.com**
@@ -9,13 +9,13 @@
 
 ## 👦 About me
 
-😃 I'm Augusto Borromeo. I'm on the 4th year of Software Engineery (80% completed).
+😃 I'm Augusto Borromeo. I'm in my 4th year of Software Engineering (90% completed).
 
-🖥️ I learning and making web apps. My final goal is always grow as a professional and be able to colaborate with awesome proyects. The world of programation's still offer new things and we should work on to improve the world that we live with new technologies.
+🖥️ I am learning and making web apps. My final goal is always to grow as a professional and be able to collaborate with awesome projects. The world of programming still offers new things and we should work on improving the world that we live in with latest technologies.
 
-📚 Most of my skills was learn on internet. That's why I think that education is important to share with everyone. Education can change your life and gives you oportunities.
+📚 Most of my skills were learned on the internet. That's why I think that education is important to share with everyone. Education can change your life and give you oportunities.
 
-✋ I always try to help other software teamates with their problems as much as I can, strengthening relations. I also have experiencie to work and coordinate software teams in for example study-app.
+✋ I always try to help other software teammates with their problems as much as I can, strengthening relations. I also have experience working and coordinating software teams in for example study-app.
 
 ## 👨‍💻 Skills
 
@@ -42,7 +42,7 @@
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
-  
+
   ### Other skills
 <p align="left"> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
