@@ -1,10 +1,10 @@
 ## 👋 Hi Let's meet us!
 
 - 🌱 I’m currently learning **Gen AI + AWS Services like AWS BedRock**
-- 👯 I’m looking to collaborate on **Web development projects with React**
-- 💬 Ask me about **Frontend issues**
+- 👯 I’m looking to collaborate on **Open source projects maybe? I just wanna fun :D**
+- 💬 Ask me about **AWS & Kubernetes issues (or how to create an issue on GitHub too)**
 - 📫 How to reach me: **augusborromeo@gmail.com**
-- ⚡ Fun fact: **Remember guys: JS isn't Java**
+- ⚡ Fun fact: **You are not a DevOps if you turn down production sometime**
 
 
 ## 👦 About me
@@ -13,9 +13,9 @@
 
 🖥️ I am learning and making web apps. My final goal is always to grow as a professional and be able to collaborate with awesome projects. The world of programming still offers new things and we should work on improving the world that we live in with latest technologies.
 
-📚 Most of my skills were learned on the internet. That's why I think that education is important to share with everyone. Education can change your life and give you oportunities.
+📚 Most of my skills were learned on the internet. That's why I think that education is important to share with everyone. Education can change your life and give you opportunities.
 
-✋ I always try to help other software teammates with their problems as much as I can, strengthening relations. I also have experience working and coordinating software teams in for example study-app.
+✋ I always try to help other software teammates with their problems as much as I can, strengthening relations. I also have experience working and coordinating software teams in for example `study-app`.
 
 ## 👨‍💻 Skills
 
