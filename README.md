@@ -2,27 +2,12 @@
 <a href = "https://www.augusdev.com" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-blue" width="220"height="35"></a>
 </div>
 
-## 👋 Hi Let's meet us!
+## 👋 Hi! I'm Augusto Borromeo
 <p align="center" width="150px">
   I am currently a <b>JR DevOps Engineer</b> at <b>CrafTech</b></a>. <br />
-  I also love <b>Music🎸</b> as a creative outlet and capturing the world around me
-</p>
-<p align='center'>
-<br>
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/augustobor"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/augustobor">
-</p>
-
-- 🌱 I’m currently learning **Gen AI + AWS Services like AWS BedRock**
-- 👯 I’m looking to collaborate on **Open source projects maybe? I just wanna have fun :D**
-- 💬 Ask me about **AWS & Kubernetes issues (or how to create an issue on GitHub too)**
-- 📫 How to reach me: **augusborromeo@gmail.com**
-- 💻 Check my website: [**augusdev.com**](https://www.augusdev.com/)
-- ⚡ Fun fact: **You are not a DevOps if you don't turn down production sometime**
-
- <!-- Github Readme Stats -->
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=augustobor&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
-<!-- ![Sumonta stats](https://github-readme-stats.vercel.app/api?username=sumonta056\&rank_icon=percentile\&show=prs_merged,prs_merged_percentage\&theme=moltack) -->
+  <i>**You are not a DevOps if you don't turn down production sometime**</i> <br />
+  I also love <b>Music🎸</b> as a creative outlet and capturing the world around me  <br />
+  <a href="https://www.augusdev.com/" target="blank">Check out my website! 🔥</a>
 </p>
 
 ## 👦 About me
@@ -34,6 +19,19 @@
 📚 Most of my skills were learned on the internet (Platzi fo rexample). That's why I think that education is important to share with everyone. Education can change your life and give you opportunities.
 
 ✋ I always try to help other software teammates with their problems as much as I can, strengthening relations. I also have experience working and coordinating software teams in for example `study-app` and CrafTech team.
+
+<p align='center'>
+<br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/augustobor"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/augustobor">
+</p>
+
+
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=augustobor&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumonta056&theme=tokyo-day" alt="activity graph"  />
+</p>
+
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
@@ -87,12 +85,8 @@
 <a href="https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
 </p>
 
-
-### <a href="https://www.augusdev.com/" target="blank">Check out my website! 🔥</a>
-
 ## 🚀 Proyects
 
-### 🎨 Frontend
 - <a href="https://github.com/augustobor/Foxy-Exchange">🦊 Foxy Exchange</a>
 - <a href="https://github.com/augustobor/RockBeer">🍺 Rock Beer</a>
 - <a href="https://github.com/augustobor/ZCoin">💰 ZCoin</a>
@@ -102,10 +96,5 @@
 - <a href="https://github.com/augustobor/study-web-app">📖 Study web App</a>
 - <a href="https://github.com/augustobor/Patitas-a-casa-frontend">🐶 pets website</a>
 - <a href="https://github.com/augustobor/chat-app">📲 Chat app</a>
-
-
-### 🧑‍💻 Backend 
 - <a href="https://github.com/augustobor/chat-telegram-api">📱 Chat Message API</a>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustobor&show_icons=true&locale=en" alt="augustobor" /></p>
