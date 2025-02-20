@@ -1,4 +1,16 @@
+<div align="center">
+<a href = "https://www.augusdev.com" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-blue" width="220"height="35"></a>
+</div>
+
 ## 👋 Hi Let's meet us!
+<p align="center" width="150px">
+  I am currently a <b>JR DevOps Engineer</b> at <b>CrafTech</b></a>. <br />
+  I also love <b>Music🎸</b> as a creative outlet and capturing the world around me
+</p>
+<p align='center'>
+<br>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/augustobor"> <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/augustobor">
+</p>
 
 - 🌱 I’m currently learning **Gen AI + AWS Services like AWS BedRock**
 - 👯 I’m looking to collaborate on **Open source projects maybe? I just wanna have fun :D**
@@ -7,6 +19,11 @@
 - 💻 Check my website: [**augusdev.com**](https://www.augusdev.com/)
 - ⚡ Fun fact: **You are not a DevOps if you don't turn down production sometime**
 
+ <!-- Github Readme Stats -->
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api?username=augustobor&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
+<!-- ![Sumonta stats](https://github-readme-stats.vercel.app/api?username=sumonta056\&rank_icon=percentile\&show=prs_merged,prs_merged_percentage\&theme=moltack) -->
+</p>
 
 ## 👦 About me
 
@@ -18,50 +35,58 @@
 
 ✋ I always try to help other software teammates with their problems as much as I can, strengthening relations. I also have experience working and coordinating software teams in for example `study-app` and CrafTech team.
 
-## 👨‍💻 Skills
 
-### Frontend skills
-<p align="left"> 
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>    
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://vuejs.org/guide/introduction.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i> Skills: </i>
 
- ### Backend skills
- <p align="left"> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> </a>
-  <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java" width="40" height="40"/> </a>
-</p>
 
-### DevOps skills
- <p align="left"> 
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-   <a href="https://kubernetes.io/es/docs/home/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/> </a>
-   <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="40" height="40"/> </a> 
-   <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/> </a>
-   <a href="https://helm.sh/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/> </a> 
-   <a href="https://docs.gitlab.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/> </a> 
-   <a href="https://developer.hashicorp.com/terraform/docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> </a>
-   <a href="https://docs.github.com/es/actions" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/> </a> 
- </p>
+#### 📚 Frontend Development & Frameworks
 
-### Other skills
-<p align="left"> 
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Axios/axios2.svg)
+
+#### ⛏️ Backend Development & Database Services
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg)
+
+#### 🐳 DevOps & Cloud tools
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
+- <a href="https://kubernetes.io/es/docs/home/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/> </a>
+  <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="40" height="40"/> </a> 
+  <a href="https://helm.sh/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40"/> </a> 
+  <a href="https://developer.hashicorp.com/terraform/docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/> </a>
+
+
+
+#### 🚦 Version Control & Documentation Tools
+
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg)
+- ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg)
+  ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg)
+
+<!-- Skill Section -->
+
 
 ## 🔍 Find me at
 
-[![TWITTER](https://img.shields.io/badge/@augusdeveloper-00ACEE?style=for-the-badge&logo=twitter&logoColor=00ACEE&labelColor=101010)]()
-[![LINKEDIN](https://img.shields.io/badge/Augusto%20Borromeo-0E76A8?style=for-the-badge&logo=linkedin&logoColor=0E76A8&labelColor=101010)]()
+<p align="center">
+<a href="mailto:augusborromeo@gmail.com?subject=Want%20to%20contact%20you%20from%20github"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"/></a>
+<a href="https://www.linkedin.com/in/sumonta-saha-mridul-b35bb61a0/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  /></a>
+</p>
+
 
 ### <a href="https://www.augusdev.com/" target="blank">Check out my website! 🔥</a>
 
