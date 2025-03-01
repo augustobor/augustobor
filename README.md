@@ -12,13 +12,13 @@
 
 ## 👦 About me
 
-😃 I'm Augusto Borromeo. I'm in my 5th year of Software Engineering (90% completed).
+😃 Hi, I'm Augusto Borromeo! I'm a Software Engineer.
 
-🖥️ Learning new technologies that develop, improve, and make a comfortable platform. Since 2019, my goal has been to grow as a professional. Currently, I collaborate as a freelance software developer in webserver projects and professionally making cloud platforms as a DevOps. The world of programming still offers new things, and we should work on improving the world with the latest technologies.
+🖥️ I'm passionate about learning and applying new technologies to build, improve, and optimize platforms. Since 2019, my goal has been to grow as a professional. Currently, I work as a freelance software developer, contributing to web server projects, and professionally specializing in cloud platforms as a DevOps engineer. The programming world is constantly evolving, and I believe we should leverage cutting-edge technologies to create a better future.
 
-📚 Most of my skills were learned on the internet (Platzi fo rexample). That's why I think that education is important to share with everyone. Education can change your life and give you opportunities.
+📚 Most of my skills have been self-taught, learning from online platforms like Platzi. I strongly believe that education should be accessible to everyone, as it has the power to transform lives and open new opportunities.
 
-✋ I always try to help other software teammates with their problems as much as I can, strengthening relations. I also have experience working and coordinating software teams in for example `study-app` and CrafTech team.
+✋ I enjoy collaborating and helping my teammates, always striving to strengthen relationships and solve challenges together. I have experience working and coordinating software teams, including projects like study-app and my work with the CrafTech team.
 
 <p align='center'>
 <br>
