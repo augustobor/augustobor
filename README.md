@@ -29,7 +29,7 @@
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=augustobor&rank_icon=percentile&show=prs_merged,prs_merged_percentage&theme=moltack"  width="45%" alt="stats graph"  />
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=sumonta056&theme=tokyo-day" alt="activity graph"  />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=augustobor&theme=tokyo-day" alt="activity graph"  />
 </p>
 
 
