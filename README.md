@@ -33,6 +33,8 @@ My day-to-day work focuses on building scalable and reliable platforms using **K
 ## 🏅 Certifications
 
 * 🟠 AWS Certified Solutions Architect – Associate (SAA)
+<img width="144" height="144" alt="aws-certified-solutions-architect-associate (2)" src="https://github.com/user-attachments/assets/2d48b8d3-98a4-4728-8689-9d8553f97661" />
+
 
 ## 🎤 Speaking & Community
 
